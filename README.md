@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ### Tech Stack
 
-[![Python](https://img.shields.io/badge/python-★★★-lightkgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/python-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
 [![Javascript](https://img.shields.io/badge/javascript-★★★-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=grey)](https://www.w3schools.com/js)
 [![SQL](https://img.shields.io/badge/SQL-★★☆-lightgrey?labelColor=003B57&logo=SQLite&style=for-the-badge&logoColor=white)](https://www.sqlite.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-★★☆-lightgrey?labelColor=4169E1&logo=PostgreSQL&style=for-the-badge&logoColor=white)](https://www.postgresql.org/)
