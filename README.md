@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   -->
 </div>
 
-### ✨ Hi! Welcome to Lisa's GitHub Page! ✨
+### ✨ Hi, I'm Lisa! ✨
 😄 <i>pronouns</i>: she/her
 
 🌎 <i>location</i>: Northern California
@@ -64,8 +64,9 @@ Here are some ideas to get you started:
 
 
 ---
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lisaphamtaylor&show_icons=true&theme=tokyonight)
-
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=lisaphamtaylor&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
 <!--
 ---
 
