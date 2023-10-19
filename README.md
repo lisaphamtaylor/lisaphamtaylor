@@ -63,14 +63,14 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/badge/GitHub-★★☆-lightgrey?labelColor=333&logo=github&style=for-the-badge&logoColor=white)](https://github.com/)
 
 
----
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=lisaphamtaylor&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
+
 <!--
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lisaphamtaylor&theme=tokyonight&size_weight=0&count_weight=1&langs_count=5)
-
+---
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=lisaphamtaylor&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
 
 -->
