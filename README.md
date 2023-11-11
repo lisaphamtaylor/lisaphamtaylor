@@ -32,11 +32,18 @@ Here are some ideas to get you started:
 </div>
 
 ### ✨ Hi, I'm Lisa! ✨
-😄 <i>pronouns</i>: she/her
+
+😄 <i>pronouns</i>: she/her/hers
 
 🌎 <i>location</i>: Northern California
   
 💜 <i>passions</i>: learning, sustainability, accessible & inclusive healthcare
+
+🔭 <i>current projects</i>:
+      <li>[What's My Premium](https://github.com/lisaphamtaylor/ML-Medical-Insurance-Premium-Predictor)</li>
+      <li>Public Health Dashboard</li>
+      <li>Mobile application to assist non-verbal persons communicate</li>
+      
 
 👀 <i>looking for</i>: opportunities in backend engineering, data engineering, or ML/AI
 
